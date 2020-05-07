@@ -12,7 +12,9 @@
 ![](image/Screenshot%20(368).png)
 
 ##binary_search.py
+
 ###3.Binary search algorithm – Have you ever heard the proverb, “finding a needle in a haystack.” This program is designed to do just that- by using a binary search algorithm. The idea behind this project is to create and implement an algorithm that searches for an element in a list.
 
 ##knows_more_about_youtube_video.ipynb
+
 ###Program to get Information of YouTube Video using pytube
